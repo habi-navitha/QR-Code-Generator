@@ -5,9 +5,9 @@ This QR code generator website allows users to input text or URLs and create a c
 2. CSS
 3. JS
 # SCREENSHOTS
-![Screenshot (88)](https://github.com/habi-navitha/QR-Code-Generator/assets/141555190/7c6b9e5a-4732-4fe7-ba9d-ff044cf6ca8c)
+![Screenshot (90)](https://github.com/habi-navitha/QR-Code-Generator/assets/141555190/2c3e556a-adf4-427e-bde5-7eb44b1a97ce)
 
 
 
 
-![Screenshot (89)](https://github.com/habi-navitha/QR-Code-Generator/assets/141555190/52d527c7-3070-41ad-9d76-2a74509feb82)
+![Screenshot (91)](https://github.com/habi-navitha/QR-Code-Generator/assets/141555190/39511275-b6e6-40ef-a6fb-a6ede3639149)
